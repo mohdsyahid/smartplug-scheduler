@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartPlug Scheduler</string>
+    <string name="toggle_device">Toggle Device</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="view_history">View History</string>
+    <string name="settings">Settings</string>
+    <string name="device_ip_hint">Enter ESP32 IP address</string>
+    <string name="schedule_name_hint">Schedule Name</string>
+    <string name="daily_usage">Daily Usage</string>
+    <string name="active_devices">Active Devices</string>
+    <string name="power_consumption">Power Consumption</string>
+    <string name="status_off">OFF</string>
+    <string name="status_on">ON</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="device_toggled">Device toggled successfully!</string>
+    <string name="schedule_saved">Schedule saved successfully!</string>
+</resources>
